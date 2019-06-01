@@ -26,10 +26,3 @@ This is a memory game using React. The application's UI is split into four compo
 * Bootstrap
 * CSS
 
-## Website
-
-https://kimgomizzou.github.io/Clicky-Game/
-
-## Copyright
-
-Kim Kaufman © 2017.  All rights reserved.
